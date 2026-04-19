@@ -1,0 +1,29 @@
+[
+  {
+    "id": "hosp1",
+    "name_en": "PHC Ramwadi",
+    "name_hi": "PHC रामवाड़ी",
+    "name_mr": "PHC रामवाडी",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "type": "Primary Health Centre"
+  },
+  {
+    "id": "hosp2",
+    "name_en": "Civil Hospital, Satara",
+    "name_hi": "सिविल अस्पताल, सतारा",
+    "name_mr": "सिविल रुग्णालय, सातारा",
+    "lat": 17.6805,
+    "lng": 73.9932,
+    "type": "Government Hospital"
+  },
+  {
+    "id": "hosp3",
+    "name_en": "KEM Hospital, Mumbai",
+    "name_hi": "केईएम अस्पताल, मुंबई",
+    "name_mr": "केईएम रुग्णालय, मुंबई",
+    "lat": 19.0033,
+    "lng": 72.8422,
+    "type": "Government Hospital"
+  }
+]

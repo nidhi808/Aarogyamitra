@@ -1,0 +1,26 @@
+[
+  {
+    "id": "abpmjay",
+    "name_en": "Ayushman Bharat PM-JAY",
+    "name_hi": "आयुष्मान भारत PM-JAY",
+    "name_mr": "आयुष्मान भारत PM-JAY",
+    "description_hi": "यह योजना गरीब परिवारों को 5 लाख तक का मुफ्त इलाज प्रदान करती है।",
+    "description_mr": "ही योजना गरीब कुटुंबांना ५ लाखांपर्यंत मोफत उपचार प्रदान करते.",
+    "intents": ["general illness", "surgery", "hospitalization", "cardiac", "treatment"],
+    "eligibility_keywords": ["ration", "low income", "poor"],
+    "eligibility_questions_hi": ["क्या आपके पास राशन कार्ड है?", "क्या आप कम आय वाले परिवार से हैं?"],
+    "eligibility_questions_mr": ["तुमच्याकडे रेशन कार्ड आहे का?", "तुम्ही कमी उत्पन्न गटातील आहात का?"]
+  },
+  {
+    "id": "jsy",
+    "name_en": "Janani Suraksha Yojana",
+    "name_hi": "जननी सुरक्षा योजना",
+    "name_mr": "जननी सुरक्षा योजना",
+    "description_hi": "गर्भवती महिलाओं के लिए नकद सहायता योजना।",
+    "description_mr": "गर्भवती महिलांसाठी रोख मदत योजना.",
+    "intents": ["maternal care", "delivery", "pregnancy", "baby", "mother"],
+    "eligibility_keywords": ["pregnant", "mother", "delivery"],
+    "eligibility_questions_hi": ["क्या आप गर्भवती हैं?", "क्या आप सरकारी अस्पताल में प्रसव करा रही हैं?"],
+    "eligibility_questions_mr": ["तुम्ही गर्भवती आहात का?", "तुम्ही शासकीय रुग्णालयात प्रसूती करणार आहात का?"]
+  }
+]
