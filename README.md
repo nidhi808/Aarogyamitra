@@ -86,3 +86,5 @@ You can update the medical knowledge by modifying the CSV files in `assets/data/
 
 ## 🙏 Credits
 Developed as a tool for ASHA workers and rural citizens to simplify access to healthcare in India.
+
+---
